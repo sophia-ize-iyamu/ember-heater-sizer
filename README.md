@@ -25,7 +25,7 @@ sizes about 28 kW, selects a 30 kW heater, and spreads it across enough elements
 watt density under the 18 W/in² limit for oil, then quotes the assembly. Run it and read
 `out/quote.md` for the full breakdown.
 
-## Run it
+## Run it 
 ```bash
 pip install -r requirements.txt   # only needed for the chart; the sizing runs on stdlib
 python ember.py
