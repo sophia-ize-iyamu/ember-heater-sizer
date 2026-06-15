@@ -38,7 +38,7 @@ python ember.py
   application guides). The limits here are representative, water tolerates high watt
   density, oils much less.
 
-## Honest limits
+## Limitations
 The fluid properties and watt-density limits are representative values, and the price list
 is illustrative, not a real catalog. Standby loss is entered as a lumped UA rather than
 modeled from tank geometry and insulation. The point is the method an application engineer
